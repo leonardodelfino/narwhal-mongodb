@@ -1,3 +1,7 @@
+Notes:
+
+This fork was created to fix the wrapper to work with version 2.12 of the java driver.
+Was also added support for aggregate function.
 
 Javascript driver for Mongo database
 ===========
